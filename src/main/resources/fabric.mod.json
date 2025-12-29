@@ -15,7 +15,7 @@
 	"icon": "assets/triland-core/icon.png",
 	"environment": "server",
 	"entrypoints": {
-		"main": [
+		"server": [
 			"com.enginnx.trilandcore.TrilandCore"
 		]
 	},
